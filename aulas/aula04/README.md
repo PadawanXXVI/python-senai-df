@@ -5,8 +5,10 @@ Brasília, 27 de abril de 2026
 Anderson de Matos Guimarães  
 Professor: Max
 
-## 🛠 Instalações iniciais
+## 🛠 Instalações e formatações iniciais
 1. [Python](python.org)
 2. [Visual Studio Code](https://code.visualstudio.com/download)
 3. Criar perfil no VS Code
+4. Instalar extensões: Python, Pylance, Jupyter, GitLens, Black Formatter, Prettier - Code Formatter e Live Share
+5. Temas do VS Code: Dracula Theme Official
 

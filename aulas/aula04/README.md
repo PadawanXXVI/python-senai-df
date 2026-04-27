@@ -21,4 +21,3 @@ Professor: Max
 4. Criar arquivo (main.py - observar regras de nomes de pastas e arquivos)
 5. Comentar código (usando #)
 6. Função "print()" - exibe informações na tela
-7. 

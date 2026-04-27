@@ -33,7 +33,6 @@ Professor: Max
 ### 🚫 None Type - print("NoneType:", None)  
 =======
 ### 🚫 None Type - print("NoneType:", None)
->>>>>>> b1c9b855bd822321264d67f145b87ae69fb5c437
 
 ## 🆔 Variáveis
 

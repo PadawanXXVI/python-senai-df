@@ -25,13 +25,17 @@ Professor: Max
 ## 🔗 Tipos primitivos de dados em Python com print()
 
 ### 🔠 String - print("str:", "Olá, Mundo!")
+
 ### 🔢 Inteiro - print("int:", 10)
+
 ### 🔢 Float - print("float:", 3.14)
+
 ### 🔢 Complex - print("complex:", 2 +3j)
+
 ### ✔ Booleano - print("bool:", True)
-<<<<<<< HEAD
-### 🚫 None Type - print("NoneType:", None)  
-=======
+
+### 🚫 None Type - print("NoneType:", None)
+
 ### 🚫 None Type - print("NoneType:", None)
 
 ## 🆔 Variáveis

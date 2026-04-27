@@ -29,7 +29,11 @@ Professor: Max
 ### 🔢 Float - print("float:", 3.14)
 ### 🔢 Complex - print("complex:", 2 +3j)
 ### ✔ Booleano - print("bool:", True)
+<<<<<<< HEAD
 ### 🚫 None Type - print("NoneType:", None)  
+=======
+### 🚫 None Type - print("NoneType:", None)
+>>>>>>> b1c9b855bd822321264d67f145b87ae69fb5c437
 
 ## 🆔 Variáveis
 
@@ -45,3 +49,7 @@ print("Valor da variável: ", texto, " Tipo da variável: ", type(texto))
 print("Valor da variável: ", numero_inteiro, " Tipo da variável: ", type(numero_inteiro))  
 print("Valor da variável: ", numero_decimal," Tipo da variável: ", type(numero_decimal))  
 print("Valor da variável: ", programador," Tipo de variável: ", type(programador))
+<<<<<<< HEAD
+=======
+
+>>>>>>> b1c9b855bd822321264d67f145b87ae69fb5c437

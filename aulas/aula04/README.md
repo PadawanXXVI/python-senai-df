@@ -29,4 +29,19 @@ Professor: Max
 ### 🔢 Float - print("float:", 3.14)
 ### 🔢 Complex - print("complex:", 2 +3j)
 ### ✔ Booleano - print("bool:", True)
-### 🚫 None Type - print("NoneType:", None)
+### 🚫 None Type - print("NoneType:", None)  
+
+## 🆔 Variáveis
+
+### texto = 'Este é um texto." # String
+### numero_inteiro = 18 # Integer
+### numero_decimal =  7.5 # Float
+### programador = True # Booleano
+
+Para criar uma variavel em Python, basta criar o nome da variável e atribuir o valor (com =).  
+Python é case sensitive, ou seja, ele diferencia letras maúsculas de letras minúsculas, assim, numero_inteiro é diferente de Numero_inteiro, são duas variáveis distintas.
+
+print("Valor da variável: ", texto, " Tipo da variável: ", type(texto))  
+print("Valor da variável: ", numero_inteiro, " Tipo da variável: ", type(numero_inteiro))  
+print("Valor da variável: ", numero_decimal," Tipo da variável: ", type(numero_decimal))  
+print("Valor da variável: ", programador," Tipo de variável: ", type(programador))

@@ -21,3 +21,12 @@ Professor: Max
 4. Criar arquivo (main.py - observar regras de nomes de pastas e arquivos)
 5. Comentar código (usando #)
 6. Função "print()" - exibe informações na tela
+
+## 🔗 Tipos primitivos de dados em Python com print()
+
+### 🔠 String - print("str:", "Olá, Mundo!")
+### 🔢 Inteiro - print("int:", 10)
+### 🔢 Float - print("float:", 3.14)
+### 🔢 Complex - print("complex:", 2 +3j)
+### ✔ Booleano - print("bool:", True)
+### 🚫 None Type - print("NoneType:", None)

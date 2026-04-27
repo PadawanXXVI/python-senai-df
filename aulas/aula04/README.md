@@ -53,6 +53,11 @@ print("Valor da variável: ", programador," Tipo de variável: ", type(programad
 ## Operadores
 
 soma ➡ +  
-subtração ➡ -
-multiplicação ➡ *
-divisão ➡ /
+subtração ➡ -  
+multiplicação ➡ *  
+divisão ➡ /  
+resto ➡ %  
+potência ➡ ^  
+divisão exata ➡ // (módulo)
+
+

@@ -15,3 +15,4 @@ divisao_exata = valor_x // valor_y
 # Saída de dados
 print("A soma de {} e {} é {}" .format(valor_x, valor_y, soma))
 print(f"A subtração de {valor_x} e {valor_y} é {subtracao}") # f-string: mais moderno, utilizado a parir de python 3.
+print(f"A multiplicação é {multiplicacao}")

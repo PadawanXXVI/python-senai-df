@@ -1,4 +1,4 @@
-Serviço Nacional de Aprendizagem Comercial  
+Serviço Nacional de Aprendizagem Industrial - SENAI DF  
 Brasília, 27 de abril de 2026  
 Anderson de Matos Guimarães  
 Professor: Max

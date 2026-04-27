@@ -12,3 +12,4 @@ Professor: Max
 4. Instalar extensões: Python, Pylance, Jupyter, GitLens, Black Formatter, Prettier - Code Formatter e Live Share
 5. Temas do VS Code: Dracula Theme Official
 
+\* Priorizar extensões criadas pela Microsoft quando disponíveis  

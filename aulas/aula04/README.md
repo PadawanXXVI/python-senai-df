@@ -15,7 +15,7 @@ Professor: Max
 \* Priorizar extensões criadas pela Microsoft quando disponíveis  
 
 ## 📂 Primeiro arquivo Python
-1. Criar pasta
+1. Criar pasta (diretório principal)
 2. Abrir a pasta no Vs Code
 3. Criar a subpasta
-4. Criar arquivo
+4. Criar arquivo (main.py - observar regras de nomes de pastas e arquivos)

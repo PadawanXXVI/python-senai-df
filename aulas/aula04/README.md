@@ -13,3 +13,9 @@ Professor: Max
 5. Temas do VS Code: Dracula Theme Official
 
 \* Priorizar extensões criadas pela Microsoft quando disponíveis  
+
+## 📂 Primeiro arquivo Python
+1. Criar pasta
+2. Abrir a pasta no Vs Code
+3. Criar a subpasta
+4. Criar arquivo

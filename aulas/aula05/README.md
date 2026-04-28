@@ -7,3 +7,5 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
 ## Revisão aula 04 - kahoot
 
+## Utilização do Google Colab
+

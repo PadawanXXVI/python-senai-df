@@ -5,7 +5,7 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
 # 🐍 INTRODUÇÃO À PROGRAMAÇÃO EM PYTHON
 
-## Tipos de dados
+## 🎲 Tipos de dados
 
 ### A tipagem dinâmica
 ### Principais tipos de dados

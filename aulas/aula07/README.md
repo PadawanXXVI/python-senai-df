@@ -9,4 +9,4 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
 ## Operadores especiais
 
-[aulas/aula07/README.md](Conteúdo da aula)
+[[aulas/aula07/README.md](https://github.com/PadawanXXVI/python-senai-df/blob/main/aulas/aula07/README.md)](Conteúdo da aula)

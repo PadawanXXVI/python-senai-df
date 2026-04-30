@@ -4,3 +4,7 @@ Anderson de Matos Guimarães
 Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
 # 🐍 INTRODUÇÃO À PROGRAMAÇÃO EM PYTHON
+
+## Matemática e operações básicas em Python
+
+## Operadores especiais

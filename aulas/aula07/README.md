@@ -8,3 +8,5 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 ## Matemática e operações básicas em Python
 
 ## Operadores especiais
+
+[aulas/aula07/README.md](Conteúdo da aula)

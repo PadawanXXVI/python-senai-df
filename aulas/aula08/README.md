@@ -19,3 +19,6 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 ## 3. Dicionários
 
 ### Principais métodos de dicionários
+### Quando usar
+
+## 4. Comparativo entre listas, tuplas e dicionários

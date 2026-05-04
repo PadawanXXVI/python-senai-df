@@ -3,7 +3,7 @@ Brasília, 4 de maio de 2026
 Anderson de Matos Guimarães  
 Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
-# INTRODUÇÃO À PROGRAMAÇÃO EM PYTHON
+# ESTRUTURA DE DADOS E FUNÇÕES
 
 ## 1. Listas 
 

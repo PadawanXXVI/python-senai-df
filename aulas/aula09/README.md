@@ -15,4 +15,8 @@ Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
 ## ❣ 5. Por que essas operações são importantes?
 
+## 6. Operações em nível técnico (simplificado)
 
+### 6.1. Dispositivos de entrada
+### 6.2. Unidade de processamento
+### 6.3. Dispositivos de saída

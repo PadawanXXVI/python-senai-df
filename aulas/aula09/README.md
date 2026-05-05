@@ -3,7 +3,10 @@ Brasília, 5 de maio de 2026
 Anderson de Matos Guimarães  
 Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
-# ESTRUTURAS DE DADOS E FUNÇÕES (cont.)
+# OPERAÇÕES COMPUTACIONAIS: ENTRADA, PROCESSAMENTO E SAÍDA
 
-## Correção da atividade da aula 08
+## 1. O que são operações computacionanis
 
+## 2. Entrada
+
+## 3. Processamento

@@ -3,10 +3,16 @@ Brasília, 5 de maio de 2026
 Anderson de Matos Guimarães  
 Professor: Kauã Fellipe Ferreira Guimarães Jorge
 
-# OPERAÇÕES COMPUTACIONAIS: ENTRADA, PROCESSAMENTO E SAÍDA
+# 💻 OPERAÇÕES COMPUTACIONAIS: ENTRADA, PROCESSAMENTO E SAÍDA
 
-## 1. O que são operações computacionanis
+## ➕ 1. O que são operações computacionanis
 
-## 2. Entrada
+## 🖱 2. Entrada
 
-## 3. Processamento
+## 👷‍♂️ 3. Processamento
+
+## 💲 4. Saída
+
+## ❣ 5. Por que essas operações são importantes?
+
+
